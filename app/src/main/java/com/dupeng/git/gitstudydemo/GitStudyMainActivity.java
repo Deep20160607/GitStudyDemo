@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class GitStudyMainActivity extends AppCompatActivity {
 
-    private String test;
+    private int teps;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
